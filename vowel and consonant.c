@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
+
 int main()
 {
     char x;
@@ -10,5 +10,6 @@ int main()
         printf("vowel");
     else
         printf("consonant");
-    getch();
+  return 0;
 }
+
